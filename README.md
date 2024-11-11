@@ -2,6 +2,8 @@
   <img src="public/images/logo.png">
   <div>Management System</div>
 </h1>
+can I help you?
+sheikhchamon7@gmail.com
 
 A business business management (inventory, sales, expense and servicing) system which is primarily built for MMT. This project is crafted with Nodejs, Express, Ejs and MongoDB (using Mongoose ODM).
 
